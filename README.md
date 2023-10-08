@@ -8,5 +8,6 @@ This project offers.
 2.  Traning the algorithm
 3. Face Recognition.
 4. Automatic attendance count and save on the CSV file.
-5. Attendance Preview Dashboard(Not fully functional Yet)
+5. Attendance Preview Dashboard(Not fully functional Yet).
+   
 You can see the interface Image by clicking this link https://drive.google.com/drive/folders/1mYoqEFXz5Rp7KHzt2vPrrgaxpSqje7ha?usp=sharing 
